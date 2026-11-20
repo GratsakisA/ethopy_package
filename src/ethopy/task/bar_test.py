@@ -21,9 +21,9 @@ key = {
     'grat_freq'             : 3,
     'grid_width'            : 15,
     'grit_freq'             : 1,
-    'style'                 : 'checkerboard',  # checkerboard, grating
+    'style'                 : 'none',  # checkerboard, grating
     'direction'             : 1,  # 1 for UD LR, -1 for DU RL
-    'flatness_correction'   : 1,
+    'flatness_correction'   : 0,
     'intertrial_duration'   : 0,
     'difficulty'            : 0,
 }
